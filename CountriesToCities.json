@@ -1,0 +1,65 @@
+[{
+		"Country": "United States",
+		"States": "California, Hawaii, Florida, Texas, Alabama, Alaska, Virgina, Minnesota, Illinois, Washington, Tennessee, North Carolina, Arizona, Michigan, New York, Connecticut, North Dakota, Iowa, Utah"
+	},
+	{
+		"Country": "India",
+		"States": "Maharashtra, Gujarat, Punjab, Jammu and Kashmir, Andhra Pradesh, West Bengal, Nagaland, Manipur, Haryana, Karnataka, Kerela, Rajasthan, Assam, Odisha,Sikkim, Chattisgarh, Uttar Pradesh "
+	},
+	{
+		"Country": "Australia",
+		"States": "New South Wales, Victoria, Tasmania, Western Australia, South Australia, Queensland"
+	},
+	{
+		"Country": "China",
+		"States": "Beijing Municipality, Tianjin Municipality, Hebei, Jiangsu, Zhejiang, Hunan, Hainan, Guizhou, Yunnan, Fujian,Duoba, Yingcai, Hongchang, Jingjiang, Taikang, Zhaozhou, Lindian, Zhonglin, Pingyin, Nanxianglong, Chengxian Chengguanzhen, Yuhong, Yuhan, Xiayuan, Dongjiaying, Songyuan, Dasha, Guohe, Yuanchang"
+	},
+	{
+		"Country": "Russia",
+		"States": "Moscow,Omsk,Peschanka,Novovarshavka,Luzino,Mar'yanovskiy,Alekseyevka,Abakan,Sayanogorsk,Chernogorsk,Borodino"
+	},
+	{
+		"Country": "Pakistan",
+		"States": "Habib Baihk ,Karachi,Ziauddin,Okara,Islamabad,Rawalpindi,Khanpur,Jhelum,Lahore,Faisalabad,Cantt,Gujar Khan"
+	},
+	{
+		"Country": "Canada",
+		"States": "Toronto,Montreal,Vancouver,Lachine,Mississauga,Leamington,Camrose,Richmond,Markham,Creston,Coquitlam,Victoria"
+	},
+	{
+		"Country": "Germany",
+		"States": "Langgons,Holle,Tespe,Walsrode,Salzgitter,Bad Sassendorf,Vienenburg,Rosdorf,Einbeck,Markersbach,Westensee,Lauterbach,Marburg"
+	},
+	{
+		"Country": "New Zealand",
+		"States": "Auckland, Palmerston North, Wellington, Windermere, Tauranga, Christchurch, Cheviot, Levels, Panmure, Saint Heliers, Torbay, Waitakere City, Silverdale, Tuakau, Manukau, Manukau, Papakura, Johnsonville, Takapuna, Waitangi, Taradale, Whangarei, Paihia, Waiau, Amberley, Belmont, Wellsford, Hamilton, Red Beach, Avondale, Yaldhurst, Lower Hutt, Greenhithe, Wanganui, Masterton, Stanmore Bay, Mangere"
+	},
+	{
+		"Country": "Singapore",
+		"States": "Yishun New Town,Bedok New Town,Ayer Raja New Town,Kalang,Tampines New Town,Ang Mo Kio New Town,Kampong Pasir Ris,Hougang,Yew Tee"
+	},
+	{
+		"Country": "France",
+		"States": "Pont-Saint-Martin,Luce,Montaigu,La Chapelle-de-Brain,Saint-Mars-du-Desert,Challans,Le Mans,Saint-Laurent-de-la-Plaine,Baule,Cholet"
+	},
+	{
+		"Country": "Japan",
+		"States": "Tokyo,Hiroshima,Saitama,Nihon'odori,Ibaraki,Urayasu,Suita,Funabashi,Nagareyama,Ichikawa,Isesaki,Koga,Ichihara"
+	},
+	{
+		"Country": "Mexico",
+		"States": "Monterrey,Mexico City,Rosarito,Chihuahua,Veracruz,Baja California,Santiago de Queretaro,Guadalajara,Puebla,Pachuca,Mexicali,Acapulco"
+	},
+	{
+		"Country": "United Kingdom",
+		"States": "Pershore,Rowley Regis,Stroud,Birmingham,Worcester,Smethwick,Alcester,Dudley,Gloucester,Solihull,Tamworth,Bidford-on-Avon"
+	},
+	{
+		"Country": "Malaysia",
+		"States": "Pantai, Kuala Lumpur, Petaling Jaya, Shah Alam, Kajang, Kuching, Setapak, Ipoh, Bukit Kayu Hitam, Bayan Lepas, Taiping, Kuala Terengganu, Kuantan, Johor Bahru, Malacca, Seremban, Kota Kinabalu, Bukit Mertajam, Klang"
+	},
+	{
+		"Country": "Thailand",
+		"States": "Bangkok, Chumphon, Kathu, Phang Khon, Sakon Nakhon, Mueang Nonthaburi, Kalasin, Chon Buri, Loei, Khon Kaen, Nong Bua Lamphu, Roi Et, Udon Thani, Kumphawapi, Kanchanaburi, Nong Khai, Ayutthaya, Chiang Mai, Songkhla, Chiang Rai, Surin, Thanyaburi, Wiphawadi, Phuket, Sing Buri, Satun, Prachin Buri, Ubon Ratchathani, Pattaya, Yala, Bang Na, Samut Songkhram, Phetchabun, Min Buri, Ratchaburi, Lampang"
+	}
+]
